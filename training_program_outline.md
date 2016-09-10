@@ -1,7 +1,7 @@
-#Training Program Outline
+# Training Program Outline
 Suggested training program for drone operators.
 
-## Training Program Framework
+## Outline
 The operator may not permit any PIC to operate unless the PIC meets the operator’s qualification criteria and demonstrates the ability to safely operate the UAS in a manner consistent with how the UAS will be operated under the exemption, including evasive and emergency maneuvers and maintaining appropriate distances from persons, vessels, vehicles and structures. PIC qualification flight hours must be logged in a manner consistent with 14 C.F.R. § 61.51(b). Flights for the purposes of training the operator’s PICs are permitted under the terms of the exemption. However, training operations may only be conducted during dedicated training sessions. During training, proficiency, and experience-building flights, all persons not essential for flight operations are considered nonparticipants, and the PIC must operate the UA with appropriate distance from nonparticipants in accordance with 14 C.F.R. § 91.119
 Operations nearer to the PIC, SO, operator trainees or essential persons do not present an undue hazard to those persons per § 91.119(a).
 
