@@ -21,5 +21,5 @@ Unknown 3rd party during flight, before, or after. Verify the person is unknown.
   * Politely answer questions or suggest that the individual contact customer service using the contact information provided.
 * If agitated, land. Immediately Return Home or initiate automated landing sequence. If able, maintain camera control or directionality on the landing area to record any activity performed by the 3rd party. Maintain safety and security of the landing area. Notify law enforcement if threatened or concerned over safety.
 
-_Notes_.
-This information is provided under a [commercial commons license](https://github.com/dronebento/commercial-operations-manual/blob/master/license.md).  Additional supplements and downloads available via https://www.dronebento.com/docs.  [DroneBento](https://www.dronebento.com/about) is a Richmond (Virginia) based sUAS commercial operator. Our staff are evangelists for safe and responsible sUAS operations within the National Airspace System.
+_Notes.
+This information is provided under a [commercial commons license](https://github.com/dronebento/commercial-operations-manual/blob/master/license.md).  Additional supplements and downloads available via https://www.dronebento.com/docs.  [DroneBento](https://www.dronebento.com/about) is a Richmond (Virginia) based sUAS commercial operator. Our staff are evangelists for safe and responsible sUAS operations within the National Airspace System._
