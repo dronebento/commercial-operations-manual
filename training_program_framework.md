@@ -1,4 +1,4 @@
-# Training Program Outline
+# Training Program Framework
 Suggested training program for drone operators.
 
 ## Outline
