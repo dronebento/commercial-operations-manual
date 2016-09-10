@@ -1,4 +1,4 @@
-# Commercial UAS Operatios
+# Commercial UAS Operations
 Best practices for UAS Commercial Operations by DroneBento, Richmond Virginia.  We author procedures and policies for safe and responsible drone operations.
 
 ## Getting Started
