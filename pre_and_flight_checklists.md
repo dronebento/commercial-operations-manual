@@ -1,4 +1,4 @@
-#Preflight Checklist
+#Checklist
 Checklists are at the center of all aircraft operations.  Memorization and poor use of checklists are the foundation of accidents. Use checklists in all aspects of a sUAS operation.
 
 ## Preflight
