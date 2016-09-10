@@ -31,3 +31,6 @@ Periodic testing of motor batteries will be performed on every unit used in miss
 * Log the flight.
 
 Batteries should be stored in a fire-proof and explosion proof container.  See http://www.nfpa.org/news-and-research/fire-statistics-and-reports/research-reports/hazardous-materials/other-hazards/lithium-ion-batteries-hazard-and-use-assessment for more.
+
+_Notes_.
+This information is provided under a [commercial commons license](https://github.com/dronebento/commercial-operations-manual/blob/master/license.md).  Additional supplements and downloads available via https://www.dronebento.com/docs.  [DroneBento](https://www.dronebento.com/about) is a Richmond (Virginia) based sUAS commercial operator. Our staff are evangelists for safe and responsible sUAS operations within the National Airspace System.

@@ -31,3 +31,6 @@ The general rules for operating sUAS commercially state that a drone operator mu
   * Alcohol - Although legal limits vary by jurisdiction (0.04 BAC, any consumption in the past 8 hours or current impairment in the USA), the pilot should consider their alcohol consumption within the last 8 to 24 hours.
   * Fatigue - Has the pilot had sufficient sleep and adequate nutrition?
   * Emotion - Has the pilot fully recovered from any extremely upsetting events such as the loss of a family member?
+
+  _Notes_.
+  This information is provided under a [commercial commons license](https://github.com/dronebento/commercial-operations-manual/blob/master/license.md).  Additional supplements and downloads available via https://www.dronebento.com/docs.  [DroneBento](https://www.dronebento.com/about) is a Richmond (Virginia) based sUAS commercial operator. Our staff are evangelists for safe and responsible sUAS operations within the National Airspace System.

@@ -9,3 +9,6 @@ Crew is not authorized to enter adjacent or private property not associated with
 
 ## UAS safety.
 Use the crew camera to photograph the state of the incident. Record the time, the environment, and the conditions leading to the event. Collect all parts and secure them in case. Seal case. Initiate incident management plan. Collect information (names, contact numbers for those involved and any witnesses).
+
+_Notes_.
+This information is provided under a [commercial commons license](https://github.com/dronebento/commercial-operations-manual/blob/master/license.md).  Additional supplements and downloads available via https://www.dronebento.com/docs.  [DroneBento](https://www.dronebento.com/about) is a Richmond (Virginia) based sUAS commercial operator. Our staff are evangelists for safe and responsible sUAS operations within the National Airspace System.

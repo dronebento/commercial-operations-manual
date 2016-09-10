@@ -22,3 +22,6 @@
 13. Initiate projects to implement remediation findings.
 14. Securely file all records.
 15. Decide whether or not to file an ASRS with NASA, http://asrs.arc.nasa.gov/report/electronic.html
+
+_Notes_.
+This information is provided under a [commercial commons license](https://github.com/dronebento/commercial-operations-manual/blob/master/license.md).  Additional supplements and downloads available via https://www.dronebento.com/docs.  [DroneBento](https://www.dronebento.com/about) is a Richmond (Virginia) based sUAS commercial operator. Our staff are evangelists for safe and responsible sUAS operations within the National Airspace System.

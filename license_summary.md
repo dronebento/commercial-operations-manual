@@ -13,3 +13,6 @@ Notices:
 
 You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
 No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+
+_Notes_.
+This information is provided under a [commercial commons license](https://github.com/dronebento/commercial-operations-manual/blob/master/license.md).  Additional supplements and downloads available via https://www.dronebento.com/docs.  [DroneBento](https://www.dronebento.com/about) is a Richmond (Virginia) based sUAS commercial operator. Our staff are evangelists for safe and responsible sUAS operations within the National Airspace System.

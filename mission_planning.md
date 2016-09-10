@@ -34,10 +34,13 @@ Through mission planning is a cornerstone of safe and responsible sUAS operation
 * Outlook Briefing. Obtain an electronic Weather Briefing, from Lockheed Martin Flight Services, for an airport within 20nm of the location where mission is flown. All tablets run ForeFlight Pro with access to key flight information.
 * Obtain nearest airport CTAF frequency.
 * Software updates and critical notices from manufacturer.
-* Check for news. 
+* Check for news.
 * Check for downloads.
   * Firmware
   * App
   * Documents
   * Drivers
 * Pack UAS.
+
+_Notes_.
+This information is provided under a [commercial commons license](https://github.com/dronebento/commercial-operations-manual/blob/master/license.md).  Additional supplements and downloads available via https://www.dronebento.com/docs.  [DroneBento](https://www.dronebento.com/about) is a Richmond (Virginia) based sUAS commercial operator. Our staff are evangelists for safe and responsible sUAS operations within the National Airspace System.
