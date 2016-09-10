@@ -21,3 +21,13 @@ The general rules for operating sUAS commercially state that a drone operator mu
 - Observer: at least 1 observer, in addition to flight to monitor the area.
 - Signage: posted indicating UAS activity.
 - Communications: Pilot with minimum criteria and experience.
+
+##Pilot/Operator
+* PIC holding at least a private pilot’s certificate and a current third-class medical certificate.
+* IMSAFE
+  * Illness - Is the pilot suffering from any illness or symptom of an illness which might affect them in flight?
+  * Medication - Is the pilot currently taking any drugs (prescription or over-the-counter)?
+  * Stress - Is the pilot overly worried about other factors in his life? The psychological pressures of everyday living can be a powerful distraction and consequently affect a pilot's performance.
+  * Alcohol - Although legal limits vary by jurisdiction (0.04 BAC, any consumption in the past 8 hours or current impairment in the USA), the pilot should consider their alcohol consumption within the last 8 to 24 hours.
+  * Fatigue - Has the pilot had sufficient sleep and adequate nutrition?
+  * Emotion - Has the pilot fully recovered from any extremely upsetting events such as the loss of a family member?
