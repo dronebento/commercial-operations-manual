@@ -7,11 +7,11 @@ DroneBento Commercial Operations Manual is modular.  At the current stage we are
 We are here to develop and grow the UAS operator community.  Although we do operate sUAS in the Richmond area, our goal is to collect knowledge and share it with other operators. We encourage mission sharing, joint-operations, and standardization.  
 
 Currently, the modules being developed are:
-- risk management
-- training program
-- mission operations
-- incident management
-- maintenance
+- [risk managemen](https://github.com/dronebento/commercial-operations-manual/tree/master/modules/risk_management)
+- [training program](https://github.com/dronebento/commercial-operations-manual/tree/master/modules/training_program)
+- [mission operations](https://github.com/dronebento/commercial-operations-manual/tree/master/modules/mission_ops)
+- [incident management](https://github.com/dronebento/commercial-operations-manual/tree/master/modules/incident_management)
+- [maintenance](https://github.com/dronebento/commercial-operations-manual/tree/master/modules/maintenance_program)
 Click on the [modules](https://github.com/dronebento/commercial-operations-manual/tree/master/modules) link to get started.
 
 Visit our website at https://www.dronebento.com to learn more. You may also find us on https://www.twitter.com/dronebento and on https://www.vimeo.com/dronebento.  We are based out of Richmond, Virginia.  Call us at 804-322-9009.
