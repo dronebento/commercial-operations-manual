@@ -7,7 +7,7 @@ DroneBento Commercial Operations Manual is modular.  At the current stage we are
 We are here to develop and grow the UAS operator community.  Although we do operate sUAS in the Richmond area, our goal is to collect knowledge and share it with other operators. We encourage mission sharing, joint-operations, and standardization.  
 
 Currently, the modules being developed are:
-- [risk managemen](https://github.com/dronebento/commercial-operations-manual/tree/master/modules/risk_management)
+- [risk management](https://github.com/dronebento/commercial-operations-manual/tree/master/modules/risk_management)
 - [training program](https://github.com/dronebento/commercial-operations-manual/tree/master/modules/training_program)
 - [mission operations](https://github.com/dronebento/commercial-operations-manual/tree/master/modules/mission_ops)
 - [incident management](https://github.com/dronebento/commercial-operations-manual/tree/master/modules/incident_management)
