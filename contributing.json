@@ -1,0 +1,23 @@
+{
+    "commit": {
+        "subject_must_be_in_tense": "imperative",
+        "subject_must_include_prefix": {
+            "prefixes": ["feat", "fix", "docs", "refactor"],
+            "require_after_prefix": "(*): "
+        },
+        "body_must_close_github_issue": true
+    },
+    "pull_request": {
+        "subject_must_be_longer_than": 4,
+        "body_must_include_verification_steps": true,
+        "body_must_include_screenshot": ["html", "css"]
+    },
+    "issue": {
+        "label_must_be_set": true,
+        "subject_must_start_with_case": "upper",
+        "body_must_include_reproduction_steps": ["bug"]
+    },
+    "branch": {
+        "name_must_include_github_issue": "start"
+    }
+}
