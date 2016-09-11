@@ -29,4 +29,4 @@ The permission herein granted shall include the right, but not the obligation, t
 
 | SIGNATURE OF REPRESENTATIVE | PRINT NAME | DATE SIGNED |
 | :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
+| ______________________    | ______________________     | ______________________    |
