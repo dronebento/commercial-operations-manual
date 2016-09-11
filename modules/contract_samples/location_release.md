@@ -4,8 +4,10 @@ A location release permits sUAS operations over private property.
 
 ##Dates and Location Information
 The following dates are covered by this location release:
-| Start Date and Start Time | End Date and Time |
-|                           |                   |
+| Start Date & Time | End Date & Time | Notes |
+| :---         |     :---:      |          ---: |
+| | | |
+| | | |
 
 ##Declarations
 Permission is hereby granted to <YOUR BUSINESS NAME>, known as "Operator" for the purpose of Unmanned Aerial Systems flight over the property/properties located at:
