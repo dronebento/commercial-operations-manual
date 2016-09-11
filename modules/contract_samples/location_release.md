@@ -27,10 +27,6 @@ The undersigned hereby warrants and represents that the undersigned has full rig
 
 The permission herein granted shall include the right, but not the obligation, to photograph the actual name connected with the premises and to use such name in the produced content.
 
-SIGNATURE OF REPRESENTATIVE:
-
-
-
-PRINT NAME:
-
-DATE SIGNED:  
+| SIGNATURE OF REPRESENTATIVE | PRINT NAME | DATE SIGNED |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
