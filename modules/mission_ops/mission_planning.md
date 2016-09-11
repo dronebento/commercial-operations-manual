@@ -1,11 +1,62 @@
 #Mission Planning
 Through mission planning is a cornerstone of safe and responsible sUAS operations.
 
+##Initial contact
+* Customer name and contact details.
+__________________________
+__________________________
+__________________________
+
+* Suggested dates:
+| Start Date and Time | End Date and Time | Notes |
+| :---:        |     :---:      |          :---: |
+| _________________________   | _________________________     | _________________________    |
+| _________________________   | _________________________     | _________________________    |
+
+* Location/Address
+__________________________
+__________________________
+__________________________
+
+* Project purpose
+_______________________________________
+_______________________________________
+
+* Desired outcomes/deliverables
+_______________________________________
+_______________________________________
+_______________________________________
+
+* What format does the customer expect the deliverables? If video, will they be MP4/RAW?  Will they be shared online or supplied on a memory card?
+_______________________________________
+
+* Provide basic pricing, but keep in mind missions are subject to complications and scope creep.  Consider this only a ball-park figure.
+
+_______________________________________
+
+* Send a Thank You email.
+
 ##Scoping and Project Management on Customer contact.
-* Assess customer needs and wants.
-* Verify the project requirements against available UAS maneuvers cand capability.
-* Assign Customer and Project Manager
-* Legal and Regulatory Review
+* Review the customer's needs and wants.  Determine if there are any issues with the request, and document them.
+____________________________________________________
+____________________________________________________
+____________________________________________________
+____________________________________________________
+
+* Determine the most suitable UAS(s) for the mission.
+__________________________
+
+* Verify the project requirements against available UAS maneuver capability.  YES / NO
+
+* Assign Customer and Project Manager.  This person will manage the remainder of the mission.
+__________________________
+
+* Legal and Regulatory Review.
+  * Check [AIRMAP.IO](https://www.airmap.com/operator-infographic/) for basic location information. This is a preview action.  Record any immediate issues.
+  * Check charts for airspace issues.  One option to streamline this process is [ForeFlight](https://plan.foreflight.com).
+  * Check the [summary documentation on UAS regulations](https://www.dronebento.com/blog/48-part-107-announced-section-333-is-history-new-chapter-for-the-uas-industry-starts-now)
+  * Check your [COA status](https://github.com/dronebento/commercial-operations-manual/blob/master/modules/mission_ops/coa_information.md) for this mission.  
+
 * Begin Mission Project Management.
   * Define Scope
   * Safety Concerns
@@ -41,3 +92,7 @@ Through mission planning is a cornerstone of safe and responsible sUAS operation
   * Documents
   * Drivers
 * Pack UAS.
+
+________________________________
+_Note.
+This information is provided under a [commercial commons license](https://github.com/dronebento/commercial-operations-manual/blob/master/license.md).  Additional supplements and downloads available via https://www.dronebento.com/docs.  [DroneBento](https://www.dronebento.com/about) is a Richmond (Virginia) based sUAS commercial operator. Our staff are evangelists for safe and responsible sUAS operations within the National Airspace System.__
