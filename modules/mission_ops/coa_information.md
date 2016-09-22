@@ -1,5 +1,14 @@
-#Certificates of Waiver or Authorization (COA)
-COA is an authorization issued by the Air Traffic Organization to a public operator for a specific UA activity. After a complete application is submitted, FAA conducts a comprehensive operational and technical review. If necessary, provisions or limitations may be imposed as part of the approval to ensure the UA can operate safely with other airspace users. In most cases, FAA will provide a formal response within 60 days from the time a completed application is submitted.
+#UAS Authorization Waivers / Airspace Permission / Airspace Authroization (not really a COA)
+Misleadingly, the FAA refers to *UAS Airpsace Authorizations* as "COA" or "Certificate of Authroization", all of which is evident as the two terms are often used side by side.  However, the standard COA system is *not used to grant waivers to sUAS operators*.  Instead, a simple online form is completed by SUAS operators, and the results of it are ultimately published at [Granted Waivers](https://www.faa.gov/uas/request_waiver/waivers_granted/) website.  No tracking is presently available for sUAS Waivers.
+
+When filing a "Request a Waiver/​Airspace Authorization Small Unmanned Aircraft System (sUAS)" the UAS operator should consider the following scenarios:
+
+* Request a waiver for a specific event on a specific date.  Keep in mind that it can take 90 days to process, this is a noble but futile effort.
+* Request a waiver for one or more activities that are not expressly allowed by Part 107 with a date range of today to four-years out from today.  For instance, request a waiver to fly without a visual observer (107.33) for the next 48 months. This is most effective.
+* Request additional waivers for other activities that are less necessary but useful, such as "Operating over people (107.39).
+* Request a waiver to enter otherwise prohibited airspace.  These will not be processed/issued until October 31st for some airspace and even later for other.  This falls under "Airspace Authorization." Despite it being part of the regular form, this is effectivel it's own realm.
+
+Authorization Waivers are issued by the Air Traffic Organization to a public operator for a specific UA activity. After a complete application is submitted, FAA conducts a comprehensive operational and technical review. If necessary, provisions or limitations may be imposed as part of the approval to ensure the UA can operate safely with other airspace users. In most cases, FAA will provide a formal response within 60 days from the time a completed application is submitted.
 
 To better support the needs of our customers, FAA deployed a web-based application system. The [COA Online System for *Small Unmanned Aerial Systems*](https://www.faa.gov/uas/request_waiver/) provides applicants with an electronic method of requesting a COA. Applicants will need to obtain an account in order to access the online system.
 
