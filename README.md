@@ -2,9 +2,9 @@
 Best practices for UAS Commercial Operations by DroneBento, Richmond Virginia.  We author procedures and policies for safe and responsible drone operations. As we continue to develop our work, we are looking for passionate individuals to contribute to this project.
 
 ## Getting Started
-DroneBento Commercial Operations Manual is modular.  At the current stage we are seeding the files with our internal documents in GitHub's markdown.  You can download the entire library, clone it to your own GitHub repository, or even contribute to our source.  
+DroneBento Commercial Operations Manual is modular.  At the current stage we are seeding the files with our internal documents in GitHub's markdown.  You can download the entire library, clone it to your own GitHub repository, or even contribute to our source.
 
-We are here to develop and grow the UAS operator community.  Although we do operate sUAS in the Richmond area, our goal is to collect knowledge and share it with other operators. We encourage mission sharing, joint-operations, and standardization.  
+We are here to develop and grow the UAS operator community.  Although we do operate sUAS in the Richmond area, our goal is to collect knowledge and share it with other operators. We encourage mission sharing, joint-operations, and standardization.
 
 The module development list is dynamic, so check back frequently. The modules we are currently working on are:
 - [risk management](https://github.com/dronebento/commercial-operations-manual/tree/master/modules/risk_management)
