@@ -108,10 +108,10 @@ To start a small UAS (drone) business you need to lay out some cash. Assuming yo
 | Cost Type        | Notes           | Estimate  |
 | ------------- |:-------------:| -----:|
 | First Year     | Startup and aircraft | $6700-$12,000 initially|
-| Recurring      | Insurance and core apps      |   $2,120 annually |
+| Recurring      | Insurance and core apps      |   $2,120-3,120 annually |
 | Aircraft Budget | Aircraft maintenance and expansion    |   $1200 annually |
 
-We collected the various costs and created our estimates.  In cases where mutliple options were presented, we chose the first one.  We excluded high-end cameras but created a Aircraft budget that is approximately 1/3 of the cost of the aircraft each year for maintenance, upgrades, and expansion.
+We collected the various costs and created our estimates and based them on a small operation of 1 to 5 crew. In cases where mutliple options were presented, we chose the first one.  We excluded high-end cameras but created a Aircraft budget that is approximately 1/3 of the cost of the aircraft each year for maintenance, upgrades, and expansion.
 
 # Job Pricing.
 Everything up to this point considers the initial and recurring costs associated with an establishes sUAS business, and all of it should factor into the sUAS operator's pricing model.  The pricing model shoudl reflect, in our oppinion, everything necessary to run a safe and responsible sUAS operation, provide excellent customer service, and enable the sUAS oprator to make a reasonable and transparent profit.
