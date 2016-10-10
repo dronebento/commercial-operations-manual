@@ -1,5 +1,5 @@
 # Before there are staff, you must have a crew.
-DroneBento encourages segregation of duties as one of the primary safety & security controls.  We focus on separating sales activities from mission planning and grant our pilots the power to stop any activity they judge to be unsafe without consequence.
+DroneBento encourages segregation of duties as one of the primary safety & security controls.  We focus on separating sales activities from mission planning and empower pilots to stop any activity they judge to be unsafe without consequence.  In our crew model, a minimum of two persons is required to successfully run a mission.  It permits a level of overlap in the roles for smaller operations.  See [the role matrix](https://github.com/dronebento/commercial-operations-manual/blob/master/modules/mission_ops/role_matrix.md) for further details.
 
 ## Flight Director: responsible for safe and legal operations.
 * Authorizes all mission flight plans, be it training or customer.
